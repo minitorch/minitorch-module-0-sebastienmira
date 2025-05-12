@@ -8,7 +8,7 @@
 * Overview: https://minitorch.github.io/module0/module0/
 
 
-<img src="newplot(1).png)" width="50%">
+<img src="newplot(1).png" width="50%">
 
 Parameters:
 - `linear.weight_0_0`: -10.00
